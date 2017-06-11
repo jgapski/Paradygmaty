@@ -1,0 +1,2 @@
+# Paradygmaty-Haskell
+Paradygmaty Programowania
